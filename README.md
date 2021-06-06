@@ -13,6 +13,6 @@ search button.
 - Api: OpenWeather One Call Api
 - HTML, JS and CSS. 
 
-[Link to the weather!](https://angelfloreschicago.github.io/hw6_WeatherDashboard/)
+[Link to the weather!](https://angelfloreschicago.github.io/WeatherDashboard/)
 
 <img src="./images/screenshot.png">
